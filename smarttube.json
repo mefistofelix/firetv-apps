@@ -1,0 +1,10 @@
+{
+    "package": {
+        "downloadUrlList": ["https://github.com/mefistofelix/firetv-apps/releases/download/smarttube-5/SmartTube-fork-5-armeabi-v7a.apk"],
+        "downloadUrlList_arm64-v8a": ["https://github.com/mefistofelix/firetv-apps/releases/download/smarttube-5/SmartTube-fork-5-arm64-v8a.apk"]
+    },
+    "32.81-mf5": {
+        "versionCode": 2471005,
+        "changelog": ["Ricerca vocale su Fire TV: dettatura dalla tastiera Amazon"]
+    }
+}
